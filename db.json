@@ -1,22 +1,51 @@
 {
-    "feedback": [
-        {
-            "id": 1,
-            "rating": 10,
-            "user_name": "Tony Stark",
-            "text": "You are the ironman of this world"
-        },
-        {
-            "id": 2,
-            "rating": 9,
-            "user_name": "Bruce Wayne",
-            "text": "You are the batman of this world"
-        },
-        {
-            "id": 3,
-            "rating": 8,
-            "user_name": "Peter Parker",
-            "text": "You are the spiderman of this world"
-        }
-    ]
+  "cars": [
+    {
+      "id": 1,
+      "brand": "Tata",
+      "year": 2019,
+      "type": "Manual",
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 500000
+    },
+    {
+      "id": 2,
+      "brand": "Tata",
+      "type": "AMT",
+      "year": 2017,
+      "kms": 8000,
+      "Description": "Tata Nexon with all original documents",
+      "Price": 800000
+    },
+    {
+      "id": 3,
+      "brand": "Maruti Suzuki",
+      "type": "AMT",
+      "year": 2016,
+      "kms": 12000,
+      "Description": "Maruthi Suzuki with all original documents",
+      "Price": 900000
+    },
+    {
+      "id": 4,
+      "brand": "Mahindra",
+      "type": "Manual",
+      "year": 2018,
+      "kms": 13000,
+      "Description": "Mahindra with all original documents",
+      "Price": 1200000
+    }
+  ],
+  "wishlisted_cars": [
+    {
+      "id": 1,
+      "brand": "Tata",
+      "year": 2019,
+      "type": "Manual",
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 500000
+    }
+  ]
 }
