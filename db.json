@@ -35,6 +35,24 @@
       "kms": 13000,
       "Description": "Mahindra with all original documents",
       "Price": 1200000
+    },
+    {
+      "id": 5,
+      "brand": "Tata",
+      "type": "AMT",
+      "year": 2021,
+      "kms": 8050,
+      "Description": "Tata Nexon with all original documents",
+      "Price": 820000
+    },
+    {
+      "id": 6,
+      "brand": "Tata",
+      "type": "AMT",
+      "year": 2022,
+      "kms": 1050,
+      "Description": "Tata Nexon with all original documents",
+      "Price": 920000
     }
   ],
   "wishlisted_cars": [
